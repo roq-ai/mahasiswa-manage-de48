@@ -1,0 +1,2322 @@
+[
+  {
+    "teacher": [
+      {
+        "id": "cbc4101f-6067-4b66-8000-a2225fd978a6",
+        "hire_date": "2023-10-12T04:19:23.821Z",
+        "termination_date": "2023-10-12T07:27:54.598Z",
+        "created_at": "2023-10-12T17:19:10.711Z",
+        "updated_at": "2023-10-12T15:03:41.474Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9d37f675-ef9f-4cc6-99a4-a421c6c6f065",
+        "hire_date": "2023-10-12T14:00:43.818Z",
+        "termination_date": "2023-10-12T15:59:30.405Z",
+        "created_at": "2023-10-12T15:29:58.134Z",
+        "updated_at": "2023-10-11T21:54:07.182Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f7412704-c895-4649-bc43-5a576b01a09c",
+        "hire_date": "2023-10-11T22:17:42.292Z",
+        "termination_date": "2023-10-12T07:03:29.905Z",
+        "created_at": "2023-10-12T09:02:15.990Z",
+        "updated_at": "2023-10-11T23:07:09.174Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "60c55f2d-fc5d-457f-8f74-b573d3780328",
+        "hire_date": "2023-10-12T06:14:40.547Z",
+        "termination_date": "2023-10-12T12:32:25.868Z",
+        "created_at": "2023-10-12T14:38:59.390Z",
+        "updated_at": "2023-10-11T21:48:48.438Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8ef768d7-b6de-4ebe-a6c6-db4a87b563c1",
+        "hire_date": "2023-10-12T18:27:00.931Z",
+        "termination_date": "2023-10-12T18:07:18.786Z",
+        "created_at": "2023-10-12T06:25:07.715Z",
+        "updated_at": "2023-10-12T01:23:49.321Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "staff": [
+      {
+        "id": "e0513c1d-f732-42bd-a0bd-79fc458907d4",
+        "hire_date": "2023-10-12T15:58:57.404Z",
+        "termination_date": "2023-10-12T10:23:59.922Z",
+        "created_at": "2023-10-12T07:33:47.247Z",
+        "updated_at": "2023-10-12T11:22:00.018Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5971cd3b-20d0-41ae-8bb0-74f947643b36",
+        "hire_date": "2023-10-12T17:33:48.817Z",
+        "termination_date": "2023-10-12T00:15:52.849Z",
+        "created_at": "2023-10-12T06:32:42.261Z",
+        "updated_at": "2023-10-12T09:17:47.001Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ea381da7-b897-4029-a8b5-3c11f72b2a99",
+        "hire_date": "2023-10-12T13:06:45.609Z",
+        "termination_date": "2023-10-12T00:50:42.795Z",
+        "created_at": "2023-10-12T14:05:20.878Z",
+        "updated_at": "2023-10-12T11:11:41.368Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4e711275-f491-4264-af36-76237a54af8e",
+        "hire_date": "2023-10-12T08:07:09.692Z",
+        "termination_date": "2023-10-12T07:59:28.419Z",
+        "created_at": "2023-10-12T08:25:26.968Z",
+        "updated_at": "2023-10-12T02:21:14.069Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d0c8da5c-570b-4060-8542-4e09ffefed61",
+        "hire_date": "2023-10-12T12:35:32.317Z",
+        "termination_date": "2023-10-12T16:57:03.992Z",
+        "created_at": "2023-10-12T17:01:22.599Z",
+        "updated_at": "2023-10-12T03:21:53.348Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "course": [
+      {
+        "id": "9917a0c8-40ab-4dab-bd04-e20e60b2124d",
+        "name": "Introduction to Programming",
+        "description": "Learn the basics of programming and coding",
+        "start_date": "2023-10-12T13:54:46.417Z",
+        "end_date": "2023-10-11T22:31:17.678Z",
+        "created_at": "2023-10-12T16:33:05.753Z",
+        "updated_at": "2023-10-12T02:10:46.822Z",
+        "teacher_id": "f7412704-c895-4649-bc43-5a576b01a09c"
+      },
+      {
+        "id": "9585aeaf-748c-44f1-9848-69d3349da425",
+        "name": "Web Development Fundamentals",
+        "description": "Master the fundamentals of web development",
+        "start_date": "2023-10-12T05:42:33.416Z",
+        "end_date": "2023-10-12T15:04:41.494Z",
+        "created_at": "2023-10-12T12:18:11.056Z",
+        "updated_at": "2023-10-12T02:49:48.991Z",
+        "teacher_id": "9d37f675-ef9f-4cc6-99a4-a421c6c6f065"
+      },
+      {
+        "id": "553b5b56-27e0-41dd-985a-5bce7a9438a4",
+        "name": "Data Science Essentials",
+        "description": "Explore the world of data science and analytics",
+        "start_date": "2023-10-12T07:12:37.937Z",
+        "end_date": "2023-10-12T11:22:09.964Z",
+        "created_at": "2023-10-11T23:11:36.043Z",
+        "updated_at": "2023-10-11T23:56:25.693Z",
+        "teacher_id": "cbc4101f-6067-4b66-8000-a2225fd978a6"
+      },
+      {
+        "id": "413b1172-277a-4904-a9e1-d70c7401711c",
+        "name": "Marketing Strategies",
+        "description": "Discover effective marketing strategies for business success",
+        "start_date": "2023-10-12T17:09:09.544Z",
+        "end_date": "2023-10-12T10:46:02.884Z",
+        "created_at": "2023-10-11T21:12:05.211Z",
+        "updated_at": "2023-10-12T03:18:15.435Z",
+        "teacher_id": "9d37f675-ef9f-4cc6-99a4-a421c6c6f065"
+      },
+      {
+        "id": "34cf4467-fd62-41d8-b528-0c0f57d0cad8",
+        "name": "Project Management Basics",
+        "description": "Gain essential skills in project management",
+        "start_date": "2023-10-11T20:20:15.553Z",
+        "end_date": "2023-10-12T18:32:19.060Z",
+        "created_at": "2023-10-12T11:53:20.810Z",
+        "updated_at": "2023-10-12T19:03:13.557Z",
+        "teacher_id": "9d37f675-ef9f-4cc6-99a4-a421c6c6f065"
+      }
+    ],
+    "student": [
+      {
+        "id": "53f313e8-2c0f-4c19-b4c0-5caba47ebfb6",
+        "enrollment_date": "2023-10-12T06:59:04.851Z",
+        "graduation_date": "2023-10-12T10:03:00.509Z",
+        "created_at": "2023-10-11T21:48:23.242Z",
+        "updated_at": "2023-10-11T22:38:17.681Z",
+        "course_id": "9917a0c8-40ab-4dab-bd04-e20e60b2124d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "31d5fdce-68cf-4ab4-b268-e698ef074620",
+        "enrollment_date": "2023-10-12T15:21:38.129Z",
+        "graduation_date": "2023-10-11T20:54:08.722Z",
+        "created_at": "2023-10-12T10:31:31.740Z",
+        "updated_at": "2023-10-12T12:14:42.940Z",
+        "course_id": "34cf4467-fd62-41d8-b528-0c0f57d0cad8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fac76af2-89e7-4813-b6a1-0dba2d50366c",
+        "enrollment_date": "2023-10-12T05:36:20.733Z",
+        "graduation_date": "2023-10-11T22:22:28.422Z",
+        "created_at": "2023-10-12T01:57:27.017Z",
+        "updated_at": "2023-10-12T06:38:10.044Z",
+        "course_id": "9917a0c8-40ab-4dab-bd04-e20e60b2124d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ac7697d3-2961-4244-83b5-bad2647d95f3",
+        "enrollment_date": "2023-10-11T20:20:51.010Z",
+        "graduation_date": "2023-10-12T09:25:46.244Z",
+        "created_at": "2023-10-12T16:54:04.604Z",
+        "updated_at": "2023-10-11T23:17:45.109Z",
+        "course_id": "34cf4467-fd62-41d8-b528-0c0f57d0cad8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ba9ac0f8-b6fe-4ced-83fe-7d10901e74da",
+        "enrollment_date": "2023-10-12T04:35:42.649Z",
+        "graduation_date": "2023-10-11T21:47:00.360Z",
+        "created_at": "2023-10-11T20:44:37.844Z",
+        "updated_at": "2023-10-12T17:50:16.786Z",
+        "course_id": "9585aeaf-748c-44f1-9848-69d3349da425",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "da28efb7-e032-4ee7-adb8-6b8b7070eba4",
+        "email": "Taylor18@roq.tech",
+        "firstName": "Bruce",
+        "lastName": "Kling",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/962.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f95854c0-c658-4d9a-a146-30e6a960a619",
+        "email": "Brielle.Will@roq.tech",
+        "firstName": "Charles",
+        "lastName": "Labadie",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/24858891",
+        "tenantId": null
+      },
+      {
+        "reference": "c4810999-9762-40e8-9a1d-ef06373a34c6",
+        "email": "Marley87@roq.tech",
+        "firstName": "Kurt",
+        "lastName": "Hilll",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45135227",
+        "tenantId": null
+      },
+      {
+        "reference": "eafbcf17-e644-4d5e-9a9f-d7a1db2ca44c",
+        "email": "Zena.Hegmann84@roq.tech",
+        "firstName": "Macie",
+        "lastName": "Cummerata",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/652.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b6937175-3c16-46ff-8cdc-be6f925f6ab2",
+        "email": "Aliya.Marks@roq.tech",
+        "firstName": "Arno",
+        "lastName": "Stokes",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/893.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "teacher": [
+      {
+        "id": "d2e28e52-7024-4f5a-bba1-2ab0474b459e",
+        "hire_date": "2023-10-12T03:11:59.028Z",
+        "termination_date": "2023-10-11T20:07:56.997Z",
+        "created_at": "2023-10-11T22:42:50.805Z",
+        "updated_at": "2023-10-11T20:16:30.811Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0f3d6a41-92d1-471c-9df3-8b5e6f40a7ff",
+        "hire_date": "2023-10-11T22:29:29.185Z",
+        "termination_date": "2023-10-12T07:05:03.560Z",
+        "created_at": "2023-10-12T13:21:41.724Z",
+        "updated_at": "2023-10-12T05:47:36.469Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5d27d8e2-21a5-48f2-8f8d-830f635e3ead",
+        "hire_date": "2023-10-12T15:23:58.571Z",
+        "termination_date": "2023-10-12T17:30:37.329Z",
+        "created_at": "2023-10-12T14:37:58.982Z",
+        "updated_at": "2023-10-12T01:41:31.093Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "82450bdc-2b4e-441a-9391-926b9876f0ab",
+        "hire_date": "2023-10-11T22:21:06.058Z",
+        "termination_date": "2023-10-11T20:51:09.412Z",
+        "created_at": "2023-10-12T04:05:13.169Z",
+        "updated_at": "2023-10-12T17:55:26.929Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b4f22ad0-b2e1-4e5f-b5a5-09a771c94913",
+        "hire_date": "2023-10-11T19:23:58.864Z",
+        "termination_date": "2023-10-12T06:50:29.389Z",
+        "created_at": "2023-10-12T06:50:04.631Z",
+        "updated_at": "2023-10-11T20:30:35.026Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "staff": [
+      {
+        "id": "f9cc11c6-0f86-47bc-af35-172c511c4aad",
+        "hire_date": "2023-10-12T12:58:27.257Z",
+        "termination_date": "2023-10-12T04:34:06.977Z",
+        "created_at": "2023-10-12T11:44:25.413Z",
+        "updated_at": "2023-10-12T12:54:49.197Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3f87e492-f1ab-4b53-bffb-cf154b20359f",
+        "hire_date": "2023-10-12T17:45:07.300Z",
+        "termination_date": "2023-10-12T12:20:04.465Z",
+        "created_at": "2023-10-11T22:37:50.961Z",
+        "updated_at": "2023-10-12T16:29:17.642Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cef1af37-b197-4340-b515-c62d7eeb9329",
+        "hire_date": "2023-10-12T15:27:16.513Z",
+        "termination_date": "2023-10-12T12:58:09.415Z",
+        "created_at": "2023-10-12T04:53:02.755Z",
+        "updated_at": "2023-10-12T02:01:12.098Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0cd497c1-280b-4c33-933b-f8d3ce8f59a8",
+        "hire_date": "2023-10-12T04:03:56.631Z",
+        "termination_date": "2023-10-11T20:42:14.011Z",
+        "created_at": "2023-10-12T10:17:24.411Z",
+        "updated_at": "2023-10-12T04:22:30.592Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fdc4a6a6-f3bf-415c-9d23-ed81993aceee",
+        "hire_date": "2023-10-12T14:40:32.675Z",
+        "termination_date": "2023-10-12T09:26:03.365Z",
+        "created_at": "2023-10-12T11:56:05.684Z",
+        "updated_at": "2023-10-12T16:23:07.700Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "course": [
+      {
+        "id": "f5b4b5db-0332-45c6-ab9e-49a5c2217b46",
+        "name": "Introduction to Programming",
+        "description": "Learn the basics of programming using Python",
+        "start_date": "2023-10-12T19:00:39.740Z",
+        "end_date": "2023-10-11T20:11:05.628Z",
+        "created_at": "2023-10-12T11:23:21.741Z",
+        "updated_at": "2023-10-12T11:30:04.055Z",
+        "teacher_id": "82450bdc-2b4e-441a-9391-926b9876f0ab"
+      },
+      {
+        "id": "832b20ee-66a8-46f7-a289-288b9b412fe9",
+        "name": "Web Development Fundamentals",
+        "description": "Master the fundamentals of web development",
+        "start_date": "2023-10-12T14:51:08.876Z",
+        "end_date": "2023-10-12T10:14:07.884Z",
+        "created_at": "2023-10-12T13:26:41.432Z",
+        "updated_at": "2023-10-12T18:52:22.750Z",
+        "teacher_id": "0f3d6a41-92d1-471c-9df3-8b5e6f40a7ff"
+      },
+      {
+        "id": "d8cfe04c-442f-47c6-a813-e028d3bbe035",
+        "name": "Data Science Essentials",
+        "description": "Explore the world of data science and analytics",
+        "start_date": "2023-10-12T12:45:30.176Z",
+        "end_date": "2023-10-12T18:44:07.519Z",
+        "created_at": "2023-10-12T07:33:11.632Z",
+        "updated_at": "2023-10-12T00:31:03.829Z",
+        "teacher_id": "0f3d6a41-92d1-471c-9df3-8b5e6f40a7ff"
+      },
+      {
+        "id": "73eee306-0410-4af3-903d-651d938080ff",
+        "name": "Digital Marketing Strategies",
+        "description": "Discover effective digital marketing techniques",
+        "start_date": "2023-10-12T10:53:57.690Z",
+        "end_date": "2023-10-12T15:33:08.899Z",
+        "created_at": "2023-10-12T04:08:19.671Z",
+        "updated_at": "2023-10-12T03:20:52.587Z",
+        "teacher_id": "82450bdc-2b4e-441a-9391-926b9876f0ab"
+      },
+      {
+        "id": "f790b11e-503a-49ca-840b-13646d6c8c6b",
+        "name": "Project Management Basics",
+        "description": "Gain essential skills for successful project management",
+        "start_date": "2023-10-12T04:05:21.291Z",
+        "end_date": "2023-10-12T18:04:12.106Z",
+        "created_at": "2023-10-12T17:47:02.677Z",
+        "updated_at": "2023-10-12T02:47:05.994Z",
+        "teacher_id": "5d27d8e2-21a5-48f2-8f8d-830f635e3ead"
+      }
+    ],
+    "student": [
+      {
+        "id": "8d5abe16-fad9-4e05-a685-fd5faf8f425e",
+        "enrollment_date": "2023-10-12T13:34:49.875Z",
+        "graduation_date": "2023-10-12T14:32:35.760Z",
+        "created_at": "2023-10-12T00:50:26.757Z",
+        "updated_at": "2023-10-11T22:21:26.610Z",
+        "course_id": "73eee306-0410-4af3-903d-651d938080ff",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e37491db-7d72-4b5a-b16b-df7ea58ed67d",
+        "enrollment_date": "2023-10-12T13:36:34.750Z",
+        "graduation_date": "2023-10-12T11:17:24.804Z",
+        "created_at": "2023-10-12T08:17:11.431Z",
+        "updated_at": "2023-10-12T14:30:02.026Z",
+        "course_id": "d8cfe04c-442f-47c6-a813-e028d3bbe035",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1d4d5fbf-0d5d-48cb-b5be-95d117a5fb82",
+        "enrollment_date": "2023-10-11T22:08:11.318Z",
+        "graduation_date": "2023-10-12T19:07:33.820Z",
+        "created_at": "2023-10-12T06:47:59.230Z",
+        "updated_at": "2023-10-12T03:29:53.152Z",
+        "course_id": "d8cfe04c-442f-47c6-a813-e028d3bbe035",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bfe7c62a-7d3a-4ec3-a2c9-1010a7554f10",
+        "enrollment_date": "2023-10-12T03:57:00.915Z",
+        "graduation_date": "2023-10-11T20:04:44.282Z",
+        "created_at": "2023-10-12T14:51:45.733Z",
+        "updated_at": "2023-10-12T18:18:03.208Z",
+        "course_id": "73eee306-0410-4af3-903d-651d938080ff",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "25b81376-6584-4f1a-9ea7-95f83a904640",
+        "enrollment_date": "2023-10-12T00:22:08.603Z",
+        "graduation_date": "2023-10-12T12:57:18.647Z",
+        "created_at": "2023-10-11T22:11:36.090Z",
+        "updated_at": "2023-10-12T04:52:51.136Z",
+        "course_id": "73eee306-0410-4af3-903d-651d938080ff",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "0ed05639-b208-40f3-a2ff-9325e90ef418",
+        "email": "Yolanda_Ebert@roq.tech",
+        "firstName": "Gino",
+        "lastName": "Ratke",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/74018910",
+        "tenantId": null
+      },
+      {
+        "reference": "002c26b2-68a0-4a6a-ab30-b74f04c511c3",
+        "email": "Maddison.Ernser@roq.tech",
+        "firstName": "Osvaldo",
+        "lastName": "Cartwright",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67467840",
+        "tenantId": null
+      },
+      {
+        "reference": "b79a8265-2364-470d-b4bc-4a645e6f46cd",
+        "email": "Christophe_Dibbert@roq.tech",
+        "firstName": "Zackery",
+        "lastName": "Bayer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/136.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b097be3f-522e-4d54-84d4-3916d176c478",
+        "email": "Sheldon30@roq.tech",
+        "firstName": "Everett",
+        "lastName": "Powlowski-Hoppe",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1024.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f467fa08-6453-4ab9-bb09-b38705ed565a",
+        "email": "Deon_Gulgowski@roq.tech",
+        "firstName": "Santos",
+        "lastName": "Rodriguez",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/38440793",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "teacher": [
+      {
+        "id": "655b244c-8964-494d-a717-d2af160676e6",
+        "hire_date": "2023-10-11T19:37:50.467Z",
+        "termination_date": "2023-10-11T20:10:45.479Z",
+        "created_at": "2023-10-11T20:28:09.830Z",
+        "updated_at": "2023-10-12T12:00:27.873Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bc4e9605-94fb-4ebd-99fe-fc0325350a44",
+        "hire_date": "2023-10-12T07:59:47.458Z",
+        "termination_date": "2023-10-11T21:13:19.691Z",
+        "created_at": "2023-10-12T03:46:18.342Z",
+        "updated_at": "2023-10-12T01:55:32.468Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cc02d3d1-d85f-43a9-b3c7-560b097f42e2",
+        "hire_date": "2023-10-12T18:49:28.311Z",
+        "termination_date": "2023-10-12T15:25:48.531Z",
+        "created_at": "2023-10-12T13:00:53.582Z",
+        "updated_at": "2023-10-12T10:32:32.693Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "44949bc3-7dc0-486d-a7d1-48f81dfe28a8",
+        "hire_date": "2023-10-12T08:53:31.785Z",
+        "termination_date": "2023-10-12T09:05:35.797Z",
+        "created_at": "2023-10-12T11:30:48.160Z",
+        "updated_at": "2023-10-11T23:28:47.803Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ad3338e5-eb7a-4609-ac6b-c8e53d5e6cd2",
+        "hire_date": "2023-10-12T08:50:38.420Z",
+        "termination_date": "2023-10-12T08:06:13.935Z",
+        "created_at": "2023-10-12T13:39:33.390Z",
+        "updated_at": "2023-10-12T12:58:07.523Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "staff": [
+      {
+        "id": "f05f33a8-ec3f-4ed7-a8fa-e0e3bcd5d448",
+        "hire_date": "2023-10-11T19:40:05.336Z",
+        "termination_date": "2023-10-12T07:30:37.239Z",
+        "created_at": "2023-10-12T08:07:23.306Z",
+        "updated_at": "2023-10-12T04:51:01.296Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9a0e3898-76bf-419f-8412-a9f7685a4822",
+        "hire_date": "2023-10-12T10:09:28.120Z",
+        "termination_date": "2023-10-12T07:51:24.188Z",
+        "created_at": "2023-10-12T06:03:24.244Z",
+        "updated_at": "2023-10-11T21:57:39.557Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "761972ef-048c-41a3-a674-9682249885a5",
+        "hire_date": "2023-10-12T07:07:46.329Z",
+        "termination_date": "2023-10-12T08:19:30.296Z",
+        "created_at": "2023-10-12T08:12:01.810Z",
+        "updated_at": "2023-10-11T20:44:52.121Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b9946ceb-9f5e-45b6-8849-59ea34d32d47",
+        "hire_date": "2023-10-12T03:37:04.138Z",
+        "termination_date": "2023-10-12T09:30:33.369Z",
+        "created_at": "2023-10-12T01:30:47.919Z",
+        "updated_at": "2023-10-12T16:45:11.201Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f412e26b-3cc1-426e-82bf-90f044e2ff6a",
+        "hire_date": "2023-10-12T07:42:31.364Z",
+        "termination_date": "2023-10-12T03:52:14.943Z",
+        "created_at": "2023-10-12T10:11:58.857Z",
+        "updated_at": "2023-10-12T09:48:29.834Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "course": [
+      {
+        "id": "8e441a7e-a349-4ebb-936f-70000414c407",
+        "name": "Introduction to Programming",
+        "description": "Learn the basics of programming and start building your own applications",
+        "start_date": "2023-10-12T05:28:44.383Z",
+        "end_date": "2023-10-11T22:01:08.449Z",
+        "created_at": "2023-10-11T22:23:48.110Z",
+        "updated_at": "2023-10-11T22:55:11.804Z",
+        "teacher_id": "655b244c-8964-494d-a717-d2af160676e6"
+      },
+      {
+        "id": "80d8a0cb-0191-46c3-b28c-baae23bd4fbd",
+        "name": "Web Development Fundamentals",
+        "description": "Master the essential skills for creating websites and web applications",
+        "start_date": "2023-10-12T15:24:03.114Z",
+        "end_date": "2023-10-12T18:21:24.175Z",
+        "created_at": "2023-10-11T19:39:55.715Z",
+        "updated_at": "2023-10-12T00:44:01.463Z",
+        "teacher_id": "ad3338e5-eb7a-4609-ac6b-c8e53d5e6cd2"
+      },
+      {
+        "id": "8bf48f12-f35c-4701-a668-3d6901149dfe",
+        "name": "Data Science for Beginners",
+        "description": "Explore the world of data science and its applications in various industries",
+        "start_date": "2023-10-12T01:49:38.522Z",
+        "end_date": "2023-10-12T04:50:01.118Z",
+        "created_at": "2023-10-12T05:39:11.107Z",
+        "updated_at": "2023-10-11T23:07:45.670Z",
+        "teacher_id": "cc02d3d1-d85f-43a9-b3c7-560b097f42e2"
+      },
+      {
+        "id": "8606b676-1c95-4032-8e2a-f646b8eabd33",
+        "name": "Graphic Design Basics",
+        "description": "Discover the principles of graphic design and create visually appealing designs",
+        "start_date": "2023-10-12T14:24:06.192Z",
+        "end_date": "2023-10-11T20:55:22.917Z",
+        "created_at": "2023-10-11T23:53:47.688Z",
+        "updated_at": "2023-10-12T07:36:34.502Z",
+        "teacher_id": "44949bc3-7dc0-486d-a7d1-48f81dfe28a8"
+      },
+      {
+        "id": "112b6edc-f446-431e-b717-26b2657a7ecc",
+        "name": "Business Management Essentials",
+        "description": "Gain a solid foundation in business management and develop key leadership skills",
+        "start_date": "2023-10-12T19:00:36.211Z",
+        "end_date": "2023-10-12T19:00:42.239Z",
+        "created_at": "2023-10-12T11:36:59.477Z",
+        "updated_at": "2023-10-12T06:51:00.042Z",
+        "teacher_id": "44949bc3-7dc0-486d-a7d1-48f81dfe28a8"
+      }
+    ],
+    "student": [
+      {
+        "id": "a137dd16-d898-4e01-94e6-81026cb51d84",
+        "enrollment_date": "2023-10-12T17:26:26.008Z",
+        "graduation_date": "2023-10-12T17:32:36.525Z",
+        "created_at": "2023-10-11T22:26:33.298Z",
+        "updated_at": "2023-10-12T15:27:49.995Z",
+        "course_id": "112b6edc-f446-431e-b717-26b2657a7ecc",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d956757e-c17f-4d9a-8eb3-e08e62fa4270",
+        "enrollment_date": "2023-10-12T06:42:07.460Z",
+        "graduation_date": "2023-10-12T16:11:53.857Z",
+        "created_at": "2023-10-12T08:23:03.944Z",
+        "updated_at": "2023-10-11T22:50:32.610Z",
+        "course_id": "80d8a0cb-0191-46c3-b28c-baae23bd4fbd",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "35599c8d-3bd9-40c7-83af-25b819e3d324",
+        "enrollment_date": "2023-10-11T19:21:30.858Z",
+        "graduation_date": "2023-10-12T12:01:37.622Z",
+        "created_at": "2023-10-12T14:59:10.900Z",
+        "updated_at": "2023-10-12T08:26:24.324Z",
+        "course_id": "8606b676-1c95-4032-8e2a-f646b8eabd33",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e68ad681-4ac8-474c-ae11-257e0b481fb7",
+        "enrollment_date": "2023-10-12T11:52:12.137Z",
+        "graduation_date": "2023-10-12T01:15:18.789Z",
+        "created_at": "2023-10-11T23:39:53.187Z",
+        "updated_at": "2023-10-11T23:45:55.907Z",
+        "course_id": "8e441a7e-a349-4ebb-936f-70000414c407",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c5117ecc-5880-442c-ad36-d250102dc11a",
+        "enrollment_date": "2023-10-12T04:10:01.066Z",
+        "graduation_date": "2023-10-12T07:43:33.135Z",
+        "created_at": "2023-10-12T03:24:04.422Z",
+        "updated_at": "2023-10-12T06:20:58.175Z",
+        "course_id": "80d8a0cb-0191-46c3-b28c-baae23bd4fbd",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "9478369c-2aad-4dc5-8177-4b3d30991472",
+        "email": "Schuyler80@roq.tech",
+        "firstName": "Korey",
+        "lastName": "Russel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1083.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c22c52f8-1f72-4ce4-94d3-b321124ba96a",
+        "email": "Flavie.Kunze@roq.tech",
+        "firstName": "Elva",
+        "lastName": "Harvey",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/32198600",
+        "tenantId": null
+      },
+      {
+        "reference": "f4bb4dc9-2000-4bd1-83ea-5842f0ac0d78",
+        "email": "Eden_Ferry@roq.tech",
+        "firstName": "Jon",
+        "lastName": "Rohan",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1209.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6731e040-bbbf-48db-9393-071af4c1a9e7",
+        "email": "Jose75@roq.tech",
+        "firstName": "Ewald",
+        "lastName": "Runte",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/939.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0ff462fc-0ceb-41df-8099-1129116ea054",
+        "email": "Isobel5@roq.tech",
+        "firstName": "Eldred",
+        "lastName": "Oberbrunner",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/21199932",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "teacher": [
+      {
+        "id": "afefb41d-6d23-46f7-8789-62e50d21ce9f",
+        "hire_date": "2023-10-12T11:12:45.894Z",
+        "termination_date": "2023-10-12T12:49:00.726Z",
+        "created_at": "2023-10-12T08:51:07.763Z",
+        "updated_at": "2023-10-12T09:51:50.426Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c96c4b4b-16df-44ee-9dae-3035ab9d245f",
+        "hire_date": "2023-10-11T23:34:53.683Z",
+        "termination_date": "2023-10-12T04:08:14.700Z",
+        "created_at": "2023-10-12T13:19:03.567Z",
+        "updated_at": "2023-10-12T09:05:04.645Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6aca0e34-b835-4d51-9d72-fa0b76edf68a",
+        "hire_date": "2023-10-11T22:36:15.482Z",
+        "termination_date": "2023-10-12T10:57:47.888Z",
+        "created_at": "2023-10-12T03:18:51.264Z",
+        "updated_at": "2023-10-12T07:56:46.475Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "340b3402-1ea0-451c-9ae7-38ec9c8ac347",
+        "hire_date": "2023-10-12T02:04:43.180Z",
+        "termination_date": "2023-10-12T18:02:25.611Z",
+        "created_at": "2023-10-12T14:45:21.890Z",
+        "updated_at": "2023-10-12T16:11:44.583Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8008089a-6456-42d2-a2fe-eb0dc6ac2222",
+        "hire_date": "2023-10-12T04:06:17.497Z",
+        "termination_date": "2023-10-12T03:47:57.186Z",
+        "created_at": "2023-10-12T07:29:37.539Z",
+        "updated_at": "2023-10-12T05:00:20.126Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "staff": [
+      {
+        "id": "d44fa8d3-b83f-4eb9-953b-4264a70a9478",
+        "hire_date": "2023-10-12T06:43:20.334Z",
+        "termination_date": "2023-10-12T09:21:43.359Z",
+        "created_at": "2023-10-12T05:54:38.773Z",
+        "updated_at": "2023-10-12T18:07:59.253Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "073fc202-db00-4a21-8691-28ace2ef4cad",
+        "hire_date": "2023-10-12T18:59:37.405Z",
+        "termination_date": "2023-10-12T04:43:59.675Z",
+        "created_at": "2023-10-12T13:03:48.637Z",
+        "updated_at": "2023-10-12T18:48:42.593Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5b905b6a-e02b-4f84-8b69-d5760dac5ee8",
+        "hire_date": "2023-10-12T17:23:03.464Z",
+        "termination_date": "2023-10-12T08:31:49.142Z",
+        "created_at": "2023-10-12T10:18:50.904Z",
+        "updated_at": "2023-10-12T14:18:51.002Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "73f4a107-8dd8-43e8-be2a-6d475cdca78d",
+        "hire_date": "2023-10-12T18:12:12.319Z",
+        "termination_date": "2023-10-12T16:54:57.058Z",
+        "created_at": "2023-10-11T22:55:05.843Z",
+        "updated_at": "2023-10-12T11:20:35.520Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "978419ee-14d2-425c-b71e-b6ae87a8fc03",
+        "hire_date": "2023-10-12T12:48:54.703Z",
+        "termination_date": "2023-10-12T18:15:53.849Z",
+        "created_at": "2023-10-12T05:45:01.194Z",
+        "updated_at": "2023-10-12T05:45:47.949Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "course": [
+      {
+        "id": "0c8e4f75-2bac-42ce-b7d4-333f0546cb88",
+        "name": "Mathematics",
+        "description": "Learn advanced mathematical concepts and problem-solving techniques",
+        "start_date": "2023-10-12T12:35:52.639Z",
+        "end_date": "2023-10-12T16:39:15.449Z",
+        "created_at": "2023-10-12T03:15:43.218Z",
+        "updated_at": "2023-10-12T16:15:53.672Z",
+        "teacher_id": "340b3402-1ea0-451c-9ae7-38ec9c8ac347"
+      },
+      {
+        "id": "0ac928e2-4820-407b-a00c-23faa6b2b466",
+        "name": "English Literature",
+        "description": "Explore classic works of literature and improve reading comprehension",
+        "start_date": "2023-10-12T11:20:06.933Z",
+        "end_date": "2023-10-12T13:37:33.091Z",
+        "created_at": "2023-10-12T13:20:13.184Z",
+        "updated_at": "2023-10-12T03:41:01.493Z",
+        "teacher_id": "c96c4b4b-16df-44ee-9dae-3035ab9d245f"
+      },
+      {
+        "id": "8b8f93d7-0117-474c-bfce-69f216b542c8",
+        "name": "Physics",
+        "description": "Study the fundamental principles of physics and their applications",
+        "start_date": "2023-10-12T17:34:18.379Z",
+        "end_date": "2023-10-12T02:19:58.483Z",
+        "created_at": "2023-10-12T14:49:37.641Z",
+        "updated_at": "2023-10-12T15:33:22.057Z",
+        "teacher_id": "340b3402-1ea0-451c-9ae7-38ec9c8ac347"
+      },
+      {
+        "id": "b66aadb1-6d17-435c-9be6-5171a283971f",
+        "name": "History",
+        "description": "Discover the events and people that shaped the world",
+        "start_date": "2023-10-12T10:30:52.352Z",
+        "end_date": "2023-10-12T18:10:26.329Z",
+        "created_at": "2023-10-12T00:31:46.444Z",
+        "updated_at": "2023-10-12T14:01:08.646Z",
+        "teacher_id": "c96c4b4b-16df-44ee-9dae-3035ab9d245f"
+      },
+      {
+        "id": "16651694-fd30-49e5-89f5-430894808da9",
+        "name": "Computer Science",
+        "description": "Develop programming skills and learn about algorithms and data structures",
+        "start_date": "2023-10-11T23:08:25.242Z",
+        "end_date": "2023-10-12T03:00:56.318Z",
+        "created_at": "2023-10-11T23:38:58.540Z",
+        "updated_at": "2023-10-12T14:07:16.009Z",
+        "teacher_id": "afefb41d-6d23-46f7-8789-62e50d21ce9f"
+      }
+    ],
+    "student": [
+      {
+        "id": "76e8acb2-1ba4-4a3d-9234-5f2c0652d4b7",
+        "enrollment_date": "2023-10-12T13:13:40.372Z",
+        "graduation_date": "2023-10-12T17:39:10.037Z",
+        "created_at": "2023-10-12T12:09:03.943Z",
+        "updated_at": "2023-10-12T09:51:38.205Z",
+        "course_id": "0c8e4f75-2bac-42ce-b7d4-333f0546cb88",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "300b9e78-8ec7-48ea-959c-449b7638f76c",
+        "enrollment_date": "2023-10-12T13:09:07.992Z",
+        "graduation_date": "2023-10-12T00:24:12.282Z",
+        "created_at": "2023-10-12T16:38:09.947Z",
+        "updated_at": "2023-10-12T00:16:12.391Z",
+        "course_id": "0ac928e2-4820-407b-a00c-23faa6b2b466",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a9991e05-a98e-4f7b-9426-300fc0c84c72",
+        "enrollment_date": "2023-10-12T03:40:58.268Z",
+        "graduation_date": "2023-10-12T04:03:08.565Z",
+        "created_at": "2023-10-12T17:12:25.984Z",
+        "updated_at": "2023-10-12T13:39:19.788Z",
+        "course_id": "0c8e4f75-2bac-42ce-b7d4-333f0546cb88",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c00f4ee5-be59-4ab5-afeb-66d10d302833",
+        "enrollment_date": "2023-10-11T22:23:52.901Z",
+        "graduation_date": "2023-10-12T08:40:43.670Z",
+        "created_at": "2023-10-12T02:36:07.084Z",
+        "updated_at": "2023-10-12T08:40:25.046Z",
+        "course_id": "0ac928e2-4820-407b-a00c-23faa6b2b466",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "71e71c03-e0e2-4a10-a6c2-9a111cea4fc9",
+        "enrollment_date": "2023-10-12T18:08:53.782Z",
+        "graduation_date": "2023-10-12T16:54:16.783Z",
+        "created_at": "2023-10-12T12:55:09.204Z",
+        "updated_at": "2023-10-12T18:48:13.023Z",
+        "course_id": "b66aadb1-6d17-435c-9be6-5171a283971f",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f73524e6-e094-45ea-bb93-40ac3dfe93de",
+        "email": "Salvador_Cummings10@roq.tech",
+        "firstName": "Salvador",
+        "lastName": "Sipes",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/37524888",
+        "tenantId": null
+      },
+      {
+        "reference": "6805d171-5589-48cc-ac75-72aa5217cba8",
+        "email": "Nyah30@roq.tech",
+        "firstName": "Lucious",
+        "lastName": "Kuhn",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/697.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "1d150bae-83f8-4d2a-b3b8-1ca9d9bebf5e",
+        "email": "Omer_Walter@roq.tech",
+        "firstName": "Amos",
+        "lastName": "Graham",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/596.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "1624c418-6fdb-4e3f-8bf2-cf04e21f9875",
+        "email": "Judd_Herzog@roq.tech",
+        "firstName": "Brennan",
+        "lastName": "Mraz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43479107",
+        "tenantId": null
+      },
+      {
+        "reference": "5a24791f-c896-452a-8141-7056c7ba19e0",
+        "email": "Jamie.Hermann@roq.tech",
+        "firstName": "Lilly",
+        "lastName": "Kessler-Rau",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40338226",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "teacher": [
+      {
+        "id": "bcc496eb-1946-4a76-a78f-4c301c30c016",
+        "hire_date": "2023-10-12T02:23:36.813Z",
+        "termination_date": "2023-10-12T01:41:58.349Z",
+        "created_at": "2023-10-11T22:28:45.011Z",
+        "updated_at": "2023-10-11T20:20:05.642Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8988f8ea-17e7-405b-b6e6-0127da0ba174",
+        "hire_date": "2023-10-11T19:38:20.189Z",
+        "termination_date": "2023-10-12T09:41:42.925Z",
+        "created_at": "2023-10-12T12:19:37.794Z",
+        "updated_at": "2023-10-12T01:40:09.381Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2c09a784-a718-4993-85c9-2132934132d0",
+        "hire_date": "2023-10-12T17:57:40.713Z",
+        "termination_date": "2023-10-12T04:49:29.841Z",
+        "created_at": "2023-10-12T11:31:51.661Z",
+        "updated_at": "2023-10-11T23:29:28.893Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9cf862f6-b66e-4c0b-90be-4a27770d8ed3",
+        "hire_date": "2023-10-12T14:22:46.109Z",
+        "termination_date": "2023-10-12T05:26:28.165Z",
+        "created_at": "2023-10-12T15:02:16.769Z",
+        "updated_at": "2023-10-12T05:18:23.494Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "114cc892-b4ef-4b7c-aca9-f38e4930ad67",
+        "hire_date": "2023-10-12T13:58:14.556Z",
+        "termination_date": "2023-10-12T12:00:59.377Z",
+        "created_at": "2023-10-12T09:07:35.922Z",
+        "updated_at": "2023-10-12T10:37:19.169Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "staff": [
+      {
+        "id": "a88772e7-8889-4d4c-b09b-639ea7d29a62",
+        "hire_date": "2023-10-12T08:48:02.790Z",
+        "termination_date": "2023-10-11T19:26:56.791Z",
+        "created_at": "2023-10-12T13:03:03.829Z",
+        "updated_at": "2023-10-12T05:00:35.480Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "02930889-05c9-45f0-8720-a62fcca89f4c",
+        "hire_date": "2023-10-12T05:10:03.268Z",
+        "termination_date": "2023-10-11T20:51:05.686Z",
+        "created_at": "2023-10-11T22:20:27.923Z",
+        "updated_at": "2023-10-11T23:29:04.244Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "eeb2a5d4-8f45-45ce-8de4-b76f53bb1167",
+        "hire_date": "2023-10-11T22:34:21.315Z",
+        "termination_date": "2023-10-12T16:08:18.923Z",
+        "created_at": "2023-10-12T18:40:49.930Z",
+        "updated_at": "2023-10-12T02:59:19.305Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "91d03698-0f53-4f2a-b208-c161606d9242",
+        "hire_date": "2023-10-12T10:57:53.446Z",
+        "termination_date": "2023-10-11T20:29:39.623Z",
+        "created_at": "2023-10-12T03:44:00.311Z",
+        "updated_at": "2023-10-12T17:52:31.938Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9e58d6fa-7060-4771-80ab-f37e77dfcf0a",
+        "hire_date": "2023-10-12T00:14:36.143Z",
+        "termination_date": "2023-10-11T23:38:11.076Z",
+        "created_at": "2023-10-12T04:15:08.532Z",
+        "updated_at": "2023-10-12T14:33:49.962Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "course": [
+      {
+        "id": "8e9c3d70-d662-40bc-8b38-b0da40888312",
+        "name": "Introduction to Programming",
+        "description": "Learn the basics of programming and coding",
+        "start_date": "2023-10-12T11:13:44.063Z",
+        "end_date": "2023-10-12T03:14:28.348Z",
+        "created_at": "2023-10-12T02:12:55.159Z",
+        "updated_at": "2023-10-11T22:50:28.770Z",
+        "teacher_id": "9cf862f6-b66e-4c0b-90be-4a27770d8ed3"
+      },
+      {
+        "id": "c641bd6a-1677-41c0-b12f-27b349c30ee8",
+        "name": "Web Development Fundamentals",
+        "description": "Build websites using HTML, CSS, and JavaScript",
+        "start_date": "2023-10-11T20:22:40.275Z",
+        "end_date": "2023-10-12T09:18:42.678Z",
+        "created_at": "2023-10-12T07:12:06.988Z",
+        "updated_at": "2023-10-12T09:30:31.190Z",
+        "teacher_id": "bcc496eb-1946-4a76-a78f-4c301c30c016"
+      },
+      {
+        "id": "40b3e31c-10d0-4630-8dbd-a39783c2c4d0",
+        "name": "Data Science Essentials",
+        "description": "Explore data analysis and machine learning techniques",
+        "start_date": "2023-10-12T01:31:34.320Z",
+        "end_date": "2023-10-12T08:33:29.148Z",
+        "created_at": "2023-10-12T11:34:18.652Z",
+        "updated_at": "2023-10-12T14:21:00.702Z",
+        "teacher_id": "2c09a784-a718-4993-85c9-2132934132d0"
+      },
+      {
+        "id": "50ec627c-7552-41da-b5db-962bc5fac7da",
+        "name": "Digital Marketing Basics",
+        "description": "Master the fundamentals of digital marketing",
+        "start_date": "2023-10-11T19:37:35.605Z",
+        "end_date": "2023-10-12T09:20:40.610Z",
+        "created_at": "2023-10-12T07:06:34.443Z",
+        "updated_at": "2023-10-12T13:28:00.549Z",
+        "teacher_id": "8988f8ea-17e7-405b-b6e6-0127da0ba174"
+      },
+      {
+        "id": "efd20ef9-2838-43a6-a69e-cea3766b0cdf",
+        "name": "Project Management Fundamentals",
+        "description": "Develop essential project management skills",
+        "start_date": "2023-10-12T15:03:41.519Z",
+        "end_date": "2023-10-12T17:39:39.056Z",
+        "created_at": "2023-10-11T19:23:10.878Z",
+        "updated_at": "2023-10-12T02:16:29.017Z",
+        "teacher_id": "9cf862f6-b66e-4c0b-90be-4a27770d8ed3"
+      }
+    ],
+    "student": [
+      {
+        "id": "1cb1bde2-553a-481a-8222-43657a019e4e",
+        "enrollment_date": "2023-10-12T14:34:26.333Z",
+        "graduation_date": "2023-10-12T04:55:01.416Z",
+        "created_at": "2023-10-12T10:16:55.096Z",
+        "updated_at": "2023-10-12T07:03:40.885Z",
+        "course_id": "40b3e31c-10d0-4630-8dbd-a39783c2c4d0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "19e8b044-f064-46a7-98d9-d3e0deff5319",
+        "enrollment_date": "2023-10-12T10:28:55.696Z",
+        "graduation_date": "2023-10-12T06:02:12.968Z",
+        "created_at": "2023-10-11T22:05:00.028Z",
+        "updated_at": "2023-10-12T17:45:55.406Z",
+        "course_id": "c641bd6a-1677-41c0-b12f-27b349c30ee8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8e54e198-370f-4ed1-8a2d-c96ab76c6e14",
+        "enrollment_date": "2023-10-12T06:20:08.429Z",
+        "graduation_date": "2023-10-12T12:47:58.643Z",
+        "created_at": "2023-10-12T04:00:57.677Z",
+        "updated_at": "2023-10-12T00:54:07.791Z",
+        "course_id": "40b3e31c-10d0-4630-8dbd-a39783c2c4d0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a76acfd4-6eef-448e-a3a8-8df92df691b9",
+        "enrollment_date": "2023-10-12T17:44:22.246Z",
+        "graduation_date": "2023-10-12T01:01:16.321Z",
+        "created_at": "2023-10-12T04:19:18.627Z",
+        "updated_at": "2023-10-12T12:21:50.198Z",
+        "course_id": "50ec627c-7552-41da-b5db-962bc5fac7da",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3b77af7c-b8f3-4306-8a9c-881c471dc680",
+        "enrollment_date": "2023-10-12T15:42:18.852Z",
+        "graduation_date": "2023-10-12T16:42:37.208Z",
+        "created_at": "2023-10-12T01:47:03.351Z",
+        "updated_at": "2023-10-12T09:34:46.932Z",
+        "course_id": "8e9c3d70-d662-40bc-8b38-b0da40888312",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "83a38c42-d0f9-4f2b-b715-a29e3efbec54",
+        "email": "Demarcus.Kshlerin@roq.tech",
+        "firstName": "Johnnie",
+        "lastName": "Dickinson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/821.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "edd186ec-2388-468d-96a7-1a37bd57750b",
+        "email": "Ebony_Wolff98@roq.tech",
+        "firstName": "Quinten",
+        "lastName": "Hermann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11133311",
+        "tenantId": null
+      },
+      {
+        "reference": "087e7b8c-2b5e-455a-8965-f0a59c85fb70",
+        "email": "Alyce_Wunsch26@roq.tech",
+        "firstName": "Hosea",
+        "lastName": "Leannon-Kuhn",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/655.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "30e4f87d-b357-423b-a5f3-8019a1423505",
+        "email": "Pete_Harris-Goldner93@roq.tech",
+        "firstName": "Jules",
+        "lastName": "Hane",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/860.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e51a7899-d684-4a4d-b4d8-59a3778a95f0",
+        "email": "Hosea_Reichert14@roq.tech",
+        "firstName": "Meta",
+        "lastName": "MacGyver",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49222974",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "teacher": [
+      {
+        "id": "76a99ee0-bfb5-4935-a8b9-ffb939796871",
+        "hire_date": "2023-10-12T16:38:37.284Z",
+        "termination_date": "2023-10-12T14:46:00.937Z",
+        "created_at": "2023-10-12T00:24:31.106Z",
+        "updated_at": "2023-10-12T02:14:52.152Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "42327837-dac8-4cee-8e04-bcf22832bde0",
+        "hire_date": "2023-10-12T07:13:46.072Z",
+        "termination_date": "2023-10-12T03:50:30.769Z",
+        "created_at": "2023-10-12T12:17:03.215Z",
+        "updated_at": "2023-10-12T01:37:43.247Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "df656cd3-712c-4123-9267-726a573c1bac",
+        "hire_date": "2023-10-12T07:57:34.970Z",
+        "termination_date": "2023-10-11T21:03:06.348Z",
+        "created_at": "2023-10-12T09:51:28.302Z",
+        "updated_at": "2023-10-11T22:02:30.861Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b4f4cced-8ba0-4de8-8bc1-6e5e3feb4e35",
+        "hire_date": "2023-10-12T04:12:40.965Z",
+        "termination_date": "2023-10-12T04:56:31.368Z",
+        "created_at": "2023-10-12T14:39:02.883Z",
+        "updated_at": "2023-10-12T07:51:42.941Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "966a61e1-5afc-4fc4-9822-79722b90d501",
+        "hire_date": "2023-10-12T14:08:16.010Z",
+        "termination_date": "2023-10-12T07:25:18.175Z",
+        "created_at": "2023-10-12T14:54:06.150Z",
+        "updated_at": "2023-10-12T10:45:31.105Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "staff": [
+      {
+        "id": "f6b5d187-5406-4918-935c-458f7a745c4d",
+        "hire_date": "2023-10-11T23:30:01.644Z",
+        "termination_date": "2023-10-12T10:04:19.756Z",
+        "created_at": "2023-10-12T03:19:47.241Z",
+        "updated_at": "2023-10-11T19:19:39.674Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c8236f66-8d1e-4224-9805-665258fe2bd2",
+        "hire_date": "2023-10-11T20:25:31.737Z",
+        "termination_date": "2023-10-12T17:29:37.070Z",
+        "created_at": "2023-10-12T17:08:19.535Z",
+        "updated_at": "2023-10-11T20:27:54.633Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ef270062-5ba7-41d5-94b2-e6480ef494f7",
+        "hire_date": "2023-10-12T13:58:45.973Z",
+        "termination_date": "2023-10-12T05:48:15.338Z",
+        "created_at": "2023-10-12T13:36:45.529Z",
+        "updated_at": "2023-10-12T00:20:12.201Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "406026da-bc50-4cfd-a503-51e41b343963",
+        "hire_date": "2023-10-12T09:56:17.249Z",
+        "termination_date": "2023-10-11T21:51:09.241Z",
+        "created_at": "2023-10-12T02:01:11.290Z",
+        "updated_at": "2023-10-12T08:21:03.978Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fec692da-2a90-4e06-b3a3-d2873a4be6a3",
+        "hire_date": "2023-10-11T20:31:05.558Z",
+        "termination_date": "2023-10-11T23:32:50.020Z",
+        "created_at": "2023-10-12T16:28:14.091Z",
+        "updated_at": "2023-10-12T11:09:50.341Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "course": [
+      {
+        "id": "7b4d1ef9-e5d6-49e7-a122-9fd3cc1b0698",
+        "name": "Introduction to Computer Science",
+        "description": "Learn the fundamentals of computer science and programming",
+        "start_date": "2023-10-12T07:02:18.208Z",
+        "end_date": "2023-10-12T15:22:13.861Z",
+        "created_at": "2023-10-12T10:04:21.423Z",
+        "updated_at": "2023-10-11T20:30:33.265Z",
+        "teacher_id": "966a61e1-5afc-4fc4-9822-79722b90d501"
+      },
+      {
+        "id": "0f699b43-41db-4286-9467-3b7b556617e8",
+        "name": "Marketing Strategies for Small Businesses",
+        "description": "Discover effective marketing strategies for small businesses",
+        "start_date": "2023-10-12T07:48:00.919Z",
+        "end_date": "2023-10-11T22:15:40.595Z",
+        "created_at": "2023-10-12T02:50:30.146Z",
+        "updated_at": "2023-10-12T05:40:31.678Z",
+        "teacher_id": "42327837-dac8-4cee-8e04-bcf22832bde0"
+      },
+      {
+        "id": "c7a171b2-bef1-456d-8b1d-80729aa7a329",
+        "name": "Financial Management for Entrepreneurs",
+        "description": "Master financial management techniques for entrepreneurs",
+        "start_date": "2023-10-12T14:02:53.638Z",
+        "end_date": "2023-10-12T06:50:38.065Z",
+        "created_at": "2023-10-12T00:31:32.210Z",
+        "updated_at": "2023-10-12T06:56:46.822Z",
+        "teacher_id": "76a99ee0-bfb5-4935-a8b9-ffb939796871"
+      },
+      {
+        "id": "720e189d-20d0-4b15-8551-4fa71916b14a",
+        "name": "Artificial Intelligence and Machine Learning",
+        "description": "Explore the exciting field of artificial intelligence and machine learning",
+        "start_date": "2023-10-12T04:27:01.431Z",
+        "end_date": "2023-10-12T00:44:31.598Z",
+        "created_at": "2023-10-11T23:33:39.769Z",
+        "updated_at": "2023-10-12T04:54:44.345Z",
+        "teacher_id": "76a99ee0-bfb5-4935-a8b9-ffb939796871"
+      },
+      {
+        "id": "bf4ac77c-cbf1-45ec-90a0-e44c4272545e",
+        "name": "Effective Communication Skills",
+        "description": "Enhance your communication skills for personal and professional success",
+        "start_date": "2023-10-12T03:54:44.777Z",
+        "end_date": "2023-10-12T03:47:12.793Z",
+        "created_at": "2023-10-12T03:07:12.033Z",
+        "updated_at": "2023-10-11T22:59:59.783Z",
+        "teacher_id": "76a99ee0-bfb5-4935-a8b9-ffb939796871"
+      }
+    ],
+    "student": [
+      {
+        "id": "4c0370c5-026b-4ca0-bac3-bdc398479a54",
+        "enrollment_date": "2023-10-12T09:37:09.756Z",
+        "graduation_date": "2023-10-12T07:39:12.309Z",
+        "created_at": "2023-10-12T11:45:36.640Z",
+        "updated_at": "2023-10-11T22:39:37.629Z",
+        "course_id": "0f699b43-41db-4286-9467-3b7b556617e8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "46dc8317-826d-4c07-a0c8-0668d5bea6f8",
+        "enrollment_date": "2023-10-12T11:15:51.441Z",
+        "graduation_date": "2023-10-12T14:55:26.815Z",
+        "created_at": "2023-10-11T20:55:31.581Z",
+        "updated_at": "2023-10-11T19:20:52.546Z",
+        "course_id": "0f699b43-41db-4286-9467-3b7b556617e8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3555466d-286b-4008-bb85-c7e5d739cb3d",
+        "enrollment_date": "2023-10-12T18:17:21.969Z",
+        "graduation_date": "2023-10-12T18:57:36.650Z",
+        "created_at": "2023-10-12T18:35:29.306Z",
+        "updated_at": "2023-10-12T02:09:20.494Z",
+        "course_id": "720e189d-20d0-4b15-8551-4fa71916b14a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3c100153-7468-4c99-b4c7-5c520cfb1af6",
+        "enrollment_date": "2023-10-12T05:58:44.788Z",
+        "graduation_date": "2023-10-12T16:10:34.072Z",
+        "created_at": "2023-10-12T00:31:26.818Z",
+        "updated_at": "2023-10-12T19:03:35.009Z",
+        "course_id": "0f699b43-41db-4286-9467-3b7b556617e8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d453fe7a-3942-4f5c-9efb-921730e983df",
+        "enrollment_date": "2023-10-12T00:36:07.677Z",
+        "graduation_date": "2023-10-12T15:40:47.132Z",
+        "created_at": "2023-10-12T18:14:06.351Z",
+        "updated_at": "2023-10-11T22:42:18.618Z",
+        "course_id": "7b4d1ef9-e5d6-49e7-a122-9fd3cc1b0698",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "bc7bdff1-f03d-44ce-bcaf-31bbc48d84fc",
+        "email": "Demario_Welch@roq.tech",
+        "firstName": "Jennifer",
+        "lastName": "Kunze",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/902.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9480a229-4223-43c6-ba2b-e7b3f95e3caa",
+        "email": "Mya72@roq.tech",
+        "firstName": "Foster",
+        "lastName": "Hettinger",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/9787427",
+        "tenantId": null
+      },
+      {
+        "reference": "ce46ebc3-47cf-4e9d-bf14-77108f34dde7",
+        "email": "Alanna_Marquardt72@roq.tech",
+        "firstName": "D'angelo",
+        "lastName": "Schmitt",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1223.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "bff7f0b7-cac8-43ce-b534-d8b86c76b353",
+        "email": "Quincy.Gleichner@roq.tech",
+        "firstName": "Alphonso",
+        "lastName": "Hand",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/16.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "572732b6-20b3-4ce3-91d2-537dbcbef56e",
+        "email": "Randall53@roq.tech",
+        "firstName": "Leila",
+        "lastName": "Wehner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/482.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "teacher": [
+      {
+        "id": "ba03656d-db43-4bfa-9108-346d696aaf3a",
+        "hire_date": "2023-10-12T17:04:31.798Z",
+        "termination_date": "2023-10-12T01:53:13.060Z",
+        "created_at": "2023-10-12T07:39:27.580Z",
+        "updated_at": "2023-10-12T15:16:12.750Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "25d41929-b751-438c-b0b7-e8ba8ead8a33",
+        "hire_date": "2023-10-12T12:56:29.999Z",
+        "termination_date": "2023-10-12T00:06:07.791Z",
+        "created_at": "2023-10-12T13:32:46.851Z",
+        "updated_at": "2023-10-12T07:35:38.304Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b7bfc4ec-d2aa-432d-a3b2-c4c7ef291d36",
+        "hire_date": "2023-10-11T22:02:53.483Z",
+        "termination_date": "2023-10-12T07:35:31.658Z",
+        "created_at": "2023-10-12T11:31:21.679Z",
+        "updated_at": "2023-10-12T07:42:00.381Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "51da1f34-e1f2-49d7-bb49-1c61a3104fc5",
+        "hire_date": "2023-10-11T23:03:33.805Z",
+        "termination_date": "2023-10-12T06:59:01.081Z",
+        "created_at": "2023-10-12T08:27:20.797Z",
+        "updated_at": "2023-10-12T02:13:40.388Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dddfa99c-ecb0-4315-af8a-296e3d55c86e",
+        "hire_date": "2023-10-12T04:49:09.918Z",
+        "termination_date": "2023-10-12T16:46:51.714Z",
+        "created_at": "2023-10-12T16:43:21.303Z",
+        "updated_at": "2023-10-12T08:18:15.789Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "staff": [
+      {
+        "id": "0d11be64-fe37-479c-88f5-66880d8a302f",
+        "hire_date": "2023-10-12T02:04:56.223Z",
+        "termination_date": "2023-10-12T00:54:34.070Z",
+        "created_at": "2023-10-11T22:31:47.405Z",
+        "updated_at": "2023-10-12T13:19:16.314Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1b9c47aa-5067-4a1e-bdb2-8ccd4d2a5297",
+        "hire_date": "2023-10-12T16:51:31.506Z",
+        "termination_date": "2023-10-12T12:35:28.527Z",
+        "created_at": "2023-10-12T04:01:21.570Z",
+        "updated_at": "2023-10-12T16:22:51.340Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aec10613-9812-432f-ad0e-9602f8f3d7ad",
+        "hire_date": "2023-10-12T06:16:27.258Z",
+        "termination_date": "2023-10-12T16:46:24.362Z",
+        "created_at": "2023-10-11T22:25:43.073Z",
+        "updated_at": "2023-10-11T22:30:51.566Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "891f5715-bdc3-4acc-94ca-1b9c94b9a460",
+        "hire_date": "2023-10-12T08:28:12.422Z",
+        "termination_date": "2023-10-11T22:17:51.094Z",
+        "created_at": "2023-10-12T02:33:38.416Z",
+        "updated_at": "2023-10-12T11:37:12.663Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f9ca5613-96a7-4fab-a8d8-9712903149e5",
+        "hire_date": "2023-10-12T03:16:06.571Z",
+        "termination_date": "2023-10-12T00:35:42.955Z",
+        "created_at": "2023-10-12T18:22:03.380Z",
+        "updated_at": "2023-10-11T22:24:10.090Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "course": [
+      {
+        "id": "694c1cc6-f332-428c-a670-d3e62901b451",
+        "name": "Introduction to Programming",
+        "description": "Learn the basics of programming and coding",
+        "start_date": "2023-10-11T21:19:31.572Z",
+        "end_date": "2023-10-12T16:14:55.227Z",
+        "created_at": "2023-10-12T13:42:09.795Z",
+        "updated_at": "2023-10-11T23:03:45.131Z",
+        "teacher_id": "b7bfc4ec-d2aa-432d-a3b2-c4c7ef291d36"
+      },
+      {
+        "id": "b1542f57-482a-4cf5-9457-7c4fe8338a7e",
+        "name": "Web Development Fundamentals",
+        "description": "Build dynamic websites using HTML, CSS, and JavaScript",
+        "start_date": "2023-10-12T01:45:19.087Z",
+        "end_date": "2023-10-12T10:59:31.932Z",
+        "created_at": "2023-10-11T19:39:17.502Z",
+        "updated_at": "2023-10-12T09:02:22.888Z",
+        "teacher_id": "ba03656d-db43-4bfa-9108-346d696aaf3a"
+      },
+      {
+        "id": "c1d8f21c-a8a5-4ab9-9b7e-bce5fcdca5cd",
+        "name": "Data Science Essentials",
+        "description": "Explore the world of data science and analytics",
+        "start_date": "2023-10-12T10:39:40.224Z",
+        "end_date": "2023-10-12T07:21:37.639Z",
+        "created_at": "2023-10-12T12:48:02.430Z",
+        "updated_at": "2023-10-12T12:00:38.535Z",
+        "teacher_id": "25d41929-b751-438c-b0b7-e8ba8ead8a33"
+      },
+      {
+        "id": "1f468249-9874-419e-826a-8dcd11206598",
+        "name": "Digital Marketing Strategies",
+        "description": "Master the art of digital marketing and advertising",
+        "start_date": "2023-10-12T07:45:44.855Z",
+        "end_date": "2023-10-12T00:45:40.139Z",
+        "created_at": "2023-10-12T14:57:30.141Z",
+        "updated_at": "2023-10-11T22:46:11.728Z",
+        "teacher_id": "51da1f34-e1f2-49d7-bb49-1c61a3104fc5"
+      },
+      {
+        "id": "e2fd4ada-d3a0-4a4e-a80c-aa8457d26970",
+        "name": "Project Management Basics",
+        "description": "Gain essential skills for successful project management",
+        "start_date": "2023-10-12T01:07:56.377Z",
+        "end_date": "2023-10-11T19:12:26.945Z",
+        "created_at": "2023-10-12T04:42:58.028Z",
+        "updated_at": "2023-10-12T10:54:39.199Z",
+        "teacher_id": "b7bfc4ec-d2aa-432d-a3b2-c4c7ef291d36"
+      }
+    ],
+    "student": [
+      {
+        "id": "cced42b7-d90a-420e-89a7-1770c6a270b0",
+        "enrollment_date": "2023-10-11T21:23:34.584Z",
+        "graduation_date": "2023-10-12T03:29:02.746Z",
+        "created_at": "2023-10-12T00:12:57.426Z",
+        "updated_at": "2023-10-11T23:53:48.791Z",
+        "course_id": "694c1cc6-f332-428c-a670-d3e62901b451",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ea20af84-f47a-4586-b481-0dcd2a65078f",
+        "enrollment_date": "2023-10-11T23:27:13.021Z",
+        "graduation_date": "2023-10-12T07:32:07.888Z",
+        "created_at": "2023-10-12T06:08:02.828Z",
+        "updated_at": "2023-10-12T06:03:24.516Z",
+        "course_id": "b1542f57-482a-4cf5-9457-7c4fe8338a7e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "74bdc395-d81c-47d9-aede-cf9006d44955",
+        "enrollment_date": "2023-10-12T04:54:11.754Z",
+        "graduation_date": "2023-10-12T14:16:31.978Z",
+        "created_at": "2023-10-12T08:11:01.605Z",
+        "updated_at": "2023-10-11T22:05:53.526Z",
+        "course_id": "694c1cc6-f332-428c-a670-d3e62901b451",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4f5d7a66-93a4-4526-81de-fb9eb1078b7f",
+        "enrollment_date": "2023-10-12T17:35:04.415Z",
+        "graduation_date": "2023-10-12T13:30:43.883Z",
+        "created_at": "2023-10-12T18:30:00.991Z",
+        "updated_at": "2023-10-11T22:44:15.215Z",
+        "course_id": "b1542f57-482a-4cf5-9457-7c4fe8338a7e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "069adee6-8659-477b-a829-23a7bc18b933",
+        "enrollment_date": "2023-10-12T18:34:40.521Z",
+        "graduation_date": "2023-10-12T09:47:57.396Z",
+        "created_at": "2023-10-12T03:23:12.061Z",
+        "updated_at": "2023-10-11T21:01:23.813Z",
+        "course_id": "e2fd4ada-d3a0-4a4e-a80c-aa8457d26970",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "68d60524-4069-43fa-a683-4c50806605a7",
+        "email": "Garth51@roq.tech",
+        "firstName": "Katrina",
+        "lastName": "McCullough",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/165.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "47111439-dc33-4d52-8e52-550318faf8ab",
+        "email": "Cicero30@roq.tech",
+        "firstName": "Cortney",
+        "lastName": "Morissette",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/76790567",
+        "tenantId": null
+      },
+      {
+        "reference": "c75f8cfa-0d0a-4803-8141-fb5dfc474bed",
+        "email": "Brain46@roq.tech",
+        "firstName": "Kraig",
+        "lastName": "Thiel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/568.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "19936057-a42d-458e-9b0f-99e12c441601",
+        "email": "Clementine18@roq.tech",
+        "firstName": "Marjory",
+        "lastName": "Klein",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/28165213",
+        "tenantId": null
+      },
+      {
+        "reference": "ba6d38dc-247d-410d-8e02-58f8df551431",
+        "email": "Moshe82@roq.tech",
+        "firstName": "Shyann",
+        "lastName": "Connelly",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1226.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "teacher": [
+      {
+        "id": "3d5aaea1-42fa-4d77-beb7-32b7b522dd4f",
+        "hire_date": "2023-10-12T12:57:29.990Z",
+        "termination_date": "2023-10-12T08:58:12.101Z",
+        "created_at": "2023-10-12T17:51:24.748Z",
+        "updated_at": "2023-10-12T05:32:19.562Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6bc5f911-4c79-49fe-af67-5f03dd2cf776",
+        "hire_date": "2023-10-12T05:19:02.079Z",
+        "termination_date": "2023-10-12T07:16:10.952Z",
+        "created_at": "2023-10-11T22:11:10.518Z",
+        "updated_at": "2023-10-12T00:09:32.923Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2a7b9f9b-9087-4000-9007-6cb345ade07b",
+        "hire_date": "2023-10-12T16:33:49.545Z",
+        "termination_date": "2023-10-11T22:24:22.529Z",
+        "created_at": "2023-10-12T05:01:09.567Z",
+        "updated_at": "2023-10-12T02:39:35.671Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c25b771c-2684-4e41-ae2a-ab386cbbd6c2",
+        "hire_date": "2023-10-12T08:06:48.932Z",
+        "termination_date": "2023-10-12T15:53:44.726Z",
+        "created_at": "2023-10-12T04:07:31.490Z",
+        "updated_at": "2023-10-11T21:51:30.432Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "28341713-78e2-4e13-8595-154e0ce4751d",
+        "hire_date": "2023-10-11T21:32:05.883Z",
+        "termination_date": "2023-10-12T01:07:24.490Z",
+        "created_at": "2023-10-12T03:13:09.647Z",
+        "updated_at": "2023-10-12T14:42:10.284Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "staff": [
+      {
+        "id": "54b86f83-42f0-441d-8275-cfc0e56b0a5e",
+        "hire_date": "2023-10-12T17:09:12.721Z",
+        "termination_date": "2023-10-12T15:05:46.181Z",
+        "created_at": "2023-10-12T12:50:08.115Z",
+        "updated_at": "2023-10-12T10:36:37.945Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e717559d-61de-44c6-80ce-7e7683ba89c1",
+        "hire_date": "2023-10-12T14:31:59.433Z",
+        "termination_date": "2023-10-12T17:26:57.241Z",
+        "created_at": "2023-10-12T14:19:19.905Z",
+        "updated_at": "2023-10-11T20:50:48.868Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9894cabf-5a15-4117-a4c2-d66128bb5099",
+        "hire_date": "2023-10-12T16:48:19.147Z",
+        "termination_date": "2023-10-12T01:43:43.883Z",
+        "created_at": "2023-10-11T22:11:33.608Z",
+        "updated_at": "2023-10-12T14:06:35.828Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1f32ecb7-cd8b-4fd1-b951-5b9d7ccd9b8e",
+        "hire_date": "2023-10-12T08:44:07.642Z",
+        "termination_date": "2023-10-12T03:37:30.036Z",
+        "created_at": "2023-10-12T03:52:27.260Z",
+        "updated_at": "2023-10-12T12:43:07.332Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "57062940-9481-4c51-a745-cd6fb59d08b3",
+        "hire_date": "2023-10-12T15:46:32.289Z",
+        "termination_date": "2023-10-12T05:32:30.028Z",
+        "created_at": "2023-10-12T15:16:22.816Z",
+        "updated_at": "2023-10-11T20:31:52.485Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "course": [
+      {
+        "id": "0a660790-7e93-402a-84f9-e7b09989d7b8",
+        "name": "Introduction to Programming",
+        "description": "Learn the basics of programming using Python",
+        "start_date": "2023-10-12T07:21:55.829Z",
+        "end_date": "2023-10-11T23:12:06.936Z",
+        "created_at": "2023-10-11T19:32:20.260Z",
+        "updated_at": "2023-10-12T08:49:24.989Z",
+        "teacher_id": "c25b771c-2684-4e41-ae2a-ab386cbbd6c2"
+      },
+      {
+        "id": "1f831a59-cedb-44ca-9435-18d858e72765",
+        "name": "Data Analysis and Visualization",
+        "description": "Explore techniques for analyzing and visualizing data",
+        "start_date": "2023-10-12T00:18:22.352Z",
+        "end_date": "2023-10-12T10:18:00.727Z",
+        "created_at": "2023-10-12T03:36:50.095Z",
+        "updated_at": "2023-10-12T15:37:23.450Z",
+        "teacher_id": "c25b771c-2684-4e41-ae2a-ab386cbbd6c2"
+      },
+      {
+        "id": "d0e49d6f-5258-4574-a56a-6bf0153f6b99",
+        "name": "Web Development Fundamentals",
+        "description": "Build responsive websites using HTML, CSS, and JavaScript",
+        "start_date": "2023-10-12T05:04:02.590Z",
+        "end_date": "2023-10-11T21:31:42.678Z",
+        "created_at": "2023-10-12T07:08:27.688Z",
+        "updated_at": "2023-10-12T15:39:01.377Z",
+        "teacher_id": "c25b771c-2684-4e41-ae2a-ab386cbbd6c2"
+      },
+      {
+        "id": "ae5ce0a1-59e1-468c-b95f-9ebf508de33b",
+        "name": "Artificial Intelligence Basics",
+        "description": "Discover the fundamentals of artificial intelligence",
+        "start_date": "2023-10-12T16:25:56.578Z",
+        "end_date": "2023-10-12T13:08:50.435Z",
+        "created_at": "2023-10-11T21:38:57.034Z",
+        "updated_at": "2023-10-12T08:10:13.689Z",
+        "teacher_id": "28341713-78e2-4e13-8595-154e0ce4751d"
+      },
+      {
+        "id": "5a0a459b-7a5d-4863-95ac-f9114ed04c9f",
+        "name": "Mobile App Development",
+        "description": "Create mobile apps for iOS and Android platforms",
+        "start_date": "2023-10-12T06:10:41.723Z",
+        "end_date": "2023-10-12T00:23:47.315Z",
+        "created_at": "2023-10-12T08:12:35.105Z",
+        "updated_at": "2023-10-12T18:43:36.418Z",
+        "teacher_id": "28341713-78e2-4e13-8595-154e0ce4751d"
+      }
+    ],
+    "student": [
+      {
+        "id": "a94b6e3b-a77f-4430-924a-81207b27bf63",
+        "enrollment_date": "2023-10-12T07:13:43.569Z",
+        "graduation_date": "2023-10-12T13:43:02.111Z",
+        "created_at": "2023-10-12T06:10:42.723Z",
+        "updated_at": "2023-10-11T22:30:24.503Z",
+        "course_id": "ae5ce0a1-59e1-468c-b95f-9ebf508de33b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ab1c1bc4-a3c9-4590-bebc-3ab2bd17b62e",
+        "enrollment_date": "2023-10-12T16:24:00.535Z",
+        "graduation_date": "2023-10-12T08:23:22.365Z",
+        "created_at": "2023-10-12T19:10:23.491Z",
+        "updated_at": "2023-10-12T10:19:20.331Z",
+        "course_id": "1f831a59-cedb-44ca-9435-18d858e72765",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a1a3530a-044d-4fa4-973d-6b57f9dfc683",
+        "enrollment_date": "2023-10-12T06:01:26.173Z",
+        "graduation_date": "2023-10-12T09:09:48.075Z",
+        "created_at": "2023-10-12T16:23:59.547Z",
+        "updated_at": "2023-10-11T23:29:31.979Z",
+        "course_id": "5a0a459b-7a5d-4863-95ac-f9114ed04c9f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9dc6c91d-fa0d-41a1-9ab8-8759b172b4a7",
+        "enrollment_date": "2023-10-12T07:33:56.148Z",
+        "graduation_date": "2023-10-12T14:22:10.862Z",
+        "created_at": "2023-10-12T18:28:19.301Z",
+        "updated_at": "2023-10-12T09:12:12.922Z",
+        "course_id": "0a660790-7e93-402a-84f9-e7b09989d7b8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "86999be7-00af-417b-87a9-05ec07ae6098",
+        "enrollment_date": "2023-10-12T12:00:50.167Z",
+        "graduation_date": "2023-10-12T18:51:12.454Z",
+        "created_at": "2023-10-12T02:33:58.563Z",
+        "updated_at": "2023-10-12T05:15:30.149Z",
+        "course_id": "0a660790-7e93-402a-84f9-e7b09989d7b8",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "254e1188-9ac9-4222-91e1-92edb1a7fcc0",
+        "email": "Emie36@roq.tech",
+        "firstName": "Hulda",
+        "lastName": "Hintz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/32156283",
+        "tenantId": null
+      },
+      {
+        "reference": "32cafc32-cc8b-4ce1-b818-6cb4f792c224",
+        "email": "Floy.Smitham93@roq.tech",
+        "firstName": "Harley",
+        "lastName": "Kohler",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/47126167",
+        "tenantId": null
+      },
+      {
+        "reference": "cdb81a42-f935-472a-b82a-05582de24786",
+        "email": "Orval_Armstrong8@roq.tech",
+        "firstName": "Rachael",
+        "lastName": "Reilly",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36834600",
+        "tenantId": null
+      },
+      {
+        "reference": "1155f28d-054a-4ec7-9319-efd7a06a91f4",
+        "email": "Mekhi.Beer25@roq.tech",
+        "firstName": "Hubert",
+        "lastName": "Kemmer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1013.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "46196fb3-d1a7-4640-97af-fee796d5c039",
+        "email": "Louie.Johnston77@roq.tech",
+        "firstName": "Kody",
+        "lastName": "Schaefer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/61.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "teacher": [
+      {
+        "id": "922b2028-31ce-4a1c-b209-c923eea8a696",
+        "hire_date": "2023-10-11T19:29:41.503Z",
+        "termination_date": "2023-10-12T18:43:41.639Z",
+        "created_at": "2023-10-12T15:31:11.967Z",
+        "updated_at": "2023-10-12T11:28:34.777Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f68c43e1-af1b-40c8-b633-1cdffc2e4bb0",
+        "hire_date": "2023-10-11T20:24:10.637Z",
+        "termination_date": "2023-10-11T20:47:32.656Z",
+        "created_at": "2023-10-11T22:49:27.512Z",
+        "updated_at": "2023-10-12T19:11:22.878Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "30a258ef-570d-4eb8-be04-17105b723e45",
+        "hire_date": "2023-10-11T20:15:14.451Z",
+        "termination_date": "2023-10-12T03:40:42.945Z",
+        "created_at": "2023-10-12T05:04:01.988Z",
+        "updated_at": "2023-10-12T08:13:24.942Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ca4337a5-61f9-49e0-be72-b158babd3e23",
+        "hire_date": "2023-10-12T07:13:40.437Z",
+        "termination_date": "2023-10-12T13:09:56.338Z",
+        "created_at": "2023-10-12T09:00:10.456Z",
+        "updated_at": "2023-10-12T03:59:11.992Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "67cfe9a2-ba46-4cf5-9ef0-25222c5f439f",
+        "hire_date": "2023-10-12T05:24:21.331Z",
+        "termination_date": "2023-10-11T22:21:09.299Z",
+        "created_at": "2023-10-12T02:03:42.097Z",
+        "updated_at": "2023-10-12T05:13:00.607Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "staff": [
+      {
+        "id": "4c3d5f68-d996-4f55-9131-1ceb41ea64d6",
+        "hire_date": "2023-10-12T04:39:06.301Z",
+        "termination_date": "2023-10-11T20:32:09.014Z",
+        "created_at": "2023-10-11T22:26:37.857Z",
+        "updated_at": "2023-10-12T02:29:05.292Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f5fc5d4a-b16d-4cb5-8ede-37c2325ece2d",
+        "hire_date": "2023-10-11T20:28:00.428Z",
+        "termination_date": "2023-10-11T22:06:37.599Z",
+        "created_at": "2023-10-12T09:12:33.399Z",
+        "updated_at": "2023-10-12T10:26:30.260Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7cc64065-369e-4dad-8b97-a8362a69c6d9",
+        "hire_date": "2023-10-12T18:36:05.906Z",
+        "termination_date": "2023-10-12T10:54:48.800Z",
+        "created_at": "2023-10-12T11:48:38.898Z",
+        "updated_at": "2023-10-12T00:32:33.397Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b7b67e98-40b0-4433-ba51-6d000083ad5f",
+        "hire_date": "2023-10-12T13:43:47.376Z",
+        "termination_date": "2023-10-12T00:38:31.788Z",
+        "created_at": "2023-10-12T18:30:09.210Z",
+        "updated_at": "2023-10-12T17:51:34.661Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "eecdae2d-d5bc-4260-a4a0-d2def37e8a6f",
+        "hire_date": "2023-10-11T20:11:32.195Z",
+        "termination_date": "2023-10-12T18:23:21.751Z",
+        "created_at": "2023-10-12T14:54:25.397Z",
+        "updated_at": "2023-10-12T17:44:50.795Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "course": [
+      {
+        "id": "8b87ffcc-f4e2-49db-b8e0-355f149789f0",
+        "name": "Introduction to Programming",
+        "description": "Learn the basics of programming with this introductory course",
+        "start_date": "2023-10-12T00:05:34.077Z",
+        "end_date": "2023-10-12T04:48:43.557Z",
+        "created_at": "2023-10-12T07:34:19.403Z",
+        "updated_at": "2023-10-12T03:50:31.544Z",
+        "teacher_id": "ca4337a5-61f9-49e0-be72-b158babd3e23"
+      },
+      {
+        "id": "aa38dc0a-3962-4af8-a45e-b198fcd945a2",
+        "name": "Web Development Fundamentals",
+        "description": "Master the fundamentals of web development and build interactive websites",
+        "start_date": "2023-10-12T05:20:30.235Z",
+        "end_date": "2023-10-12T07:47:56.037Z",
+        "created_at": "2023-10-12T00:01:45.373Z",
+        "updated_at": "2023-10-12T04:05:54.971Z",
+        "teacher_id": "67cfe9a2-ba46-4cf5-9ef0-25222c5f439f"
+      },
+      {
+        "id": "1c758997-3f38-4f04-a2b8-5160f98cf9e4",
+        "name": "Data Science Essentials",
+        "description": "Discover the essential concepts and techniques of data science",
+        "start_date": "2023-10-12T18:05:21.670Z",
+        "end_date": "2023-10-12T12:06:41.123Z",
+        "created_at": "2023-10-11T20:05:15.002Z",
+        "updated_at": "2023-10-12T05:34:22.604Z",
+        "teacher_id": "922b2028-31ce-4a1c-b209-c923eea8a696"
+      },
+      {
+        "id": "356c8398-9849-480e-96ac-6776e175869d",
+        "name": "Marketing Strategies 101",
+        "description": "Gain insights into effective marketing strategies for business success",
+        "start_date": "2023-10-11T20:56:04.954Z",
+        "end_date": "2023-10-12T09:11:57.630Z",
+        "created_at": "2023-10-12T14:42:05.922Z",
+        "updated_at": "2023-10-12T11:15:47.158Z",
+        "teacher_id": "67cfe9a2-ba46-4cf5-9ef0-25222c5f439f"
+      },
+      {
+        "id": "ea23f1a7-8cc8-46dc-be13-64015861a282",
+        "name": "Financial Planning Basics",
+        "description": "Learn the basics of financial planning and make informed decisions",
+        "start_date": "2023-10-12T13:10:50.755Z",
+        "end_date": "2023-10-12T16:36:59.648Z",
+        "created_at": "2023-10-11T22:14:09.420Z",
+        "updated_at": "2023-10-12T05:30:12.890Z",
+        "teacher_id": "67cfe9a2-ba46-4cf5-9ef0-25222c5f439f"
+      }
+    ],
+    "student": [
+      {
+        "id": "901ed325-6d25-4a5e-885a-303c1ac9b869",
+        "enrollment_date": "2023-10-12T07:14:55.847Z",
+        "graduation_date": "2023-10-12T16:49:09.550Z",
+        "created_at": "2023-10-12T06:48:15.373Z",
+        "updated_at": "2023-10-12T03:17:22.059Z",
+        "course_id": "356c8398-9849-480e-96ac-6776e175869d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "79a1df74-f8f9-4d49-bdf9-082524235263",
+        "enrollment_date": "2023-10-12T01:50:26.101Z",
+        "graduation_date": "2023-10-12T16:12:41.986Z",
+        "created_at": "2023-10-12T05:02:43.495Z",
+        "updated_at": "2023-10-12T09:45:09.959Z",
+        "course_id": "ea23f1a7-8cc8-46dc-be13-64015861a282",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8400a237-b486-44ef-8883-5da0abb9bdc0",
+        "enrollment_date": "2023-10-11T23:56:51.181Z",
+        "graduation_date": "2023-10-12T05:25:12.384Z",
+        "created_at": "2023-10-11T22:45:04.052Z",
+        "updated_at": "2023-10-12T03:44:23.298Z",
+        "course_id": "aa38dc0a-3962-4af8-a45e-b198fcd945a2",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "12936969-df36-44f6-acad-3557fffbfedd",
+        "enrollment_date": "2023-10-11T21:24:32.745Z",
+        "graduation_date": "2023-10-12T14:15:26.431Z",
+        "created_at": "2023-10-11T22:19:15.516Z",
+        "updated_at": "2023-10-12T16:11:11.844Z",
+        "course_id": "8b87ffcc-f4e2-49db-b8e0-355f149789f0",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "916ef29b-ef85-44a7-87d9-fb54ae0d02cd",
+        "enrollment_date": "2023-10-11T20:06:52.103Z",
+        "graduation_date": "2023-10-12T01:34:57.405Z",
+        "created_at": "2023-10-12T15:09:57.300Z",
+        "updated_at": "2023-10-12T07:43:22.065Z",
+        "course_id": "aa38dc0a-3962-4af8-a45e-b198fcd945a2",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "77f5559a-5230-4e7a-9698-be278e731291",
+        "email": "Shawna39@roq.tech",
+        "firstName": "Maureen",
+        "lastName": "King",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/754.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8ff949df-74a5-4077-80ce-c7c7d988237e",
+        "email": "Ona.Padberg@roq.tech",
+        "firstName": "Kelvin",
+        "lastName": "Roberts",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1177.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3dece7e1-a72a-4b3b-9eb7-30afb6551788",
+        "email": "Rosemary41@roq.tech",
+        "firstName": "Amya",
+        "lastName": "Kirlin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/97627120",
+        "tenantId": null
+      },
+      {
+        "reference": "f529215b-20b6-4f90-b18a-28030a0508c9",
+        "email": "Lizeth_Howe13@roq.tech",
+        "firstName": "Ebba",
+        "lastName": "Bode",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/61662991",
+        "tenantId": null
+      },
+      {
+        "reference": "fdb48e24-7b75-43db-aecb-45537bc89603",
+        "email": "Herman.Homenick4@roq.tech",
+        "firstName": "Mabel",
+        "lastName": "Bednar-Hilpert",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/97477711",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "teacher": [
+      {
+        "id": "e909c04d-144c-481c-86e5-d57a5a2559e9",
+        "hire_date": "2023-10-11T22:37:31.552Z",
+        "termination_date": "2023-10-12T02:37:21.363Z",
+        "created_at": "2023-10-12T14:49:24.383Z",
+        "updated_at": "2023-10-11T21:20:27.200Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "01a0ba9e-5a1e-4613-87b7-2b87554f80b9",
+        "hire_date": "2023-10-12T18:05:13.298Z",
+        "termination_date": "2023-10-12T03:17:11.980Z",
+        "created_at": "2023-10-11T19:52:19.343Z",
+        "updated_at": "2023-10-12T05:44:20.204Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4b2bfe48-c000-4cf0-a38b-2d87f2445176",
+        "hire_date": "2023-10-12T10:43:27.611Z",
+        "termination_date": "2023-10-12T03:43:44.495Z",
+        "created_at": "2023-10-12T06:05:49.722Z",
+        "updated_at": "2023-10-12T06:30:51.674Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "84929c33-9909-45dd-8b48-6d72a7cc32bb",
+        "hire_date": "2023-10-11T23:24:24.605Z",
+        "termination_date": "2023-10-12T03:07:10.307Z",
+        "created_at": "2023-10-12T15:38:17.962Z",
+        "updated_at": "2023-10-12T16:29:36.658Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "317dd4df-f974-4bff-8b80-c4ed9d86c88f",
+        "hire_date": "2023-10-12T03:38:55.072Z",
+        "termination_date": "2023-10-12T07:27:59.410Z",
+        "created_at": "2023-10-12T06:46:05.628Z",
+        "updated_at": "2023-10-11T22:16:19.847Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "staff": [
+      {
+        "id": "b65f24b6-5925-47a7-8c2c-2f97455fc329",
+        "hire_date": "2023-10-11T20:07:51.809Z",
+        "termination_date": "2023-10-12T02:33:15.408Z",
+        "created_at": "2023-10-12T00:50:10.616Z",
+        "updated_at": "2023-10-11T20:35:26.013Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c7f903bc-8925-4c63-81ff-809bbbc3c888",
+        "hire_date": "2023-10-12T14:20:49.482Z",
+        "termination_date": "2023-10-12T06:43:00.549Z",
+        "created_at": "2023-10-11T22:14:41.020Z",
+        "updated_at": "2023-10-12T18:31:11.577Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4f92390f-672a-427d-84f0-e8f4f3002dd0",
+        "hire_date": "2023-10-12T15:39:05.954Z",
+        "termination_date": "2023-10-12T12:04:23.181Z",
+        "created_at": "2023-10-11T22:30:08.953Z",
+        "updated_at": "2023-10-12T17:10:25.424Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c3fa57d2-68ee-45af-9ce5-bc40745c2bc3",
+        "hire_date": "2023-10-12T07:03:53.146Z",
+        "termination_date": "2023-10-12T09:18:18.384Z",
+        "created_at": "2023-10-12T01:32:06.966Z",
+        "updated_at": "2023-10-12T10:48:30.586Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f8996116-19ec-4953-959c-893438c958e2",
+        "hire_date": "2023-10-11T21:02:38.851Z",
+        "termination_date": "2023-10-12T14:46:02.814Z",
+        "created_at": "2023-10-12T11:26:55.280Z",
+        "updated_at": "2023-10-12T02:46:09.450Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "course": [
+      {
+        "id": "4f08cfee-46bc-419d-90de-d1d104b9942b",
+        "name": "Introduction to Programming",
+        "description": "Learn the basics of programming and develop problem-solving skills",
+        "start_date": "2023-10-12T05:15:04.357Z",
+        "end_date": "2023-10-11T23:16:50.694Z",
+        "created_at": "2023-10-12T01:37:27.212Z",
+        "updated_at": "2023-10-12T06:43:24.038Z",
+        "teacher_id": "4b2bfe48-c000-4cf0-a38b-2d87f2445176"
+      },
+      {
+        "id": "ac745e5e-e986-4c88-9f20-f15063fea3e6",
+        "name": "Web Development Fundamentals",
+        "description": "Build interactive websites using HTML, CSS, and JavaScript",
+        "start_date": "2023-10-12T12:46:09.490Z",
+        "end_date": "2023-10-12T10:21:55.192Z",
+        "created_at": "2023-10-12T09:29:29.758Z",
+        "updated_at": "2023-10-11T21:08:15.682Z",
+        "teacher_id": "4b2bfe48-c000-4cf0-a38b-2d87f2445176"
+      },
+      {
+        "id": "916d6c17-a92a-427e-856f-cd58fc4cda3b",
+        "name": "Data Analysis and Visualization",
+        "description": "Explore techniques for analyzing and visualizing data using Python and R",
+        "start_date": "2023-10-12T13:03:36.908Z",
+        "end_date": "2023-10-12T13:59:24.624Z",
+        "created_at": "2023-10-12T15:03:53.322Z",
+        "updated_at": "2023-10-12T10:13:49.517Z",
+        "teacher_id": "317dd4df-f974-4bff-8b80-c4ed9d86c88f"
+      },
+      {
+        "id": "a8d70179-cc51-4115-b26a-0be15864c0df",
+        "name": "Marketing Strategies for Small Businesses",
+        "description": "Discover effective marketing strategies to grow your small business",
+        "start_date": "2023-10-12T12:23:18.966Z",
+        "end_date": "2023-10-11T22:15:47.036Z",
+        "created_at": "2023-10-12T08:03:42.139Z",
+        "updated_at": "2023-10-11T20:38:16.272Z",
+        "teacher_id": "01a0ba9e-5a1e-4613-87b7-2b87554f80b9"
+      },
+      {
+        "id": "c74d614d-5631-4160-8494-e213eea56351",
+        "name": "Introduction to Psychology",
+        "description": "Gain insights into the fascinating field of psychology",
+        "start_date": "2023-10-12T17:46:16.371Z",
+        "end_date": "2023-10-12T09:44:25.053Z",
+        "created_at": "2023-10-12T19:08:30.581Z",
+        "updated_at": "2023-10-12T17:15:06.811Z",
+        "teacher_id": "01a0ba9e-5a1e-4613-87b7-2b87554f80b9"
+      }
+    ],
+    "student": [
+      {
+        "id": "3c3051ff-129b-4a64-a5fc-268209769141",
+        "enrollment_date": "2023-10-12T18:29:56.661Z",
+        "graduation_date": "2023-10-12T15:28:59.842Z",
+        "created_at": "2023-10-12T07:43:34.593Z",
+        "updated_at": "2023-10-12T18:08:58.231Z",
+        "course_id": "a8d70179-cc51-4115-b26a-0be15864c0df",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1fba7b8c-093b-4b2c-8135-ace81cd4042c",
+        "enrollment_date": "2023-10-12T06:19:14.971Z",
+        "graduation_date": "2023-10-12T18:29:25.016Z",
+        "created_at": "2023-10-12T00:37:41.163Z",
+        "updated_at": "2023-10-12T09:04:21.549Z",
+        "course_id": "c74d614d-5631-4160-8494-e213eea56351",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "007a86b0-203e-4827-a5a9-46be0634f344",
+        "enrollment_date": "2023-10-11T19:39:57.386Z",
+        "graduation_date": "2023-10-12T06:55:53.730Z",
+        "created_at": "2023-10-12T14:39:02.731Z",
+        "updated_at": "2023-10-12T13:13:31.038Z",
+        "course_id": "ac745e5e-e986-4c88-9f20-f15063fea3e6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b1d156c1-9ff5-4fc0-ac08-2e355fa61229",
+        "enrollment_date": "2023-10-12T07:13:51.244Z",
+        "graduation_date": "2023-10-12T12:37:25.016Z",
+        "created_at": "2023-10-12T12:18:59.744Z",
+        "updated_at": "2023-10-12T15:51:51.841Z",
+        "course_id": "916d6c17-a92a-427e-856f-cd58fc4cda3b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "91b05dd8-6fee-47f6-abf4-658723fc0050",
+        "enrollment_date": "2023-10-12T11:56:20.683Z",
+        "graduation_date": "2023-10-11T19:50:38.936Z",
+        "created_at": "2023-10-12T16:53:37.534Z",
+        "updated_at": "2023-10-11T21:34:12.656Z",
+        "course_id": "a8d70179-cc51-4115-b26a-0be15864c0df",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "1bc0efde-d702-407d-b506-7deadf03ebaa",
+        "email": "Delpha_Little4@roq.tech",
+        "firstName": "Kieran",
+        "lastName": "Paucek",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/19100401",
+        "tenantId": null
+      },
+      {
+        "reference": "4641bab2-2964-4ba6-a04a-1e60d2b84212",
+        "email": "Abigale34@roq.tech",
+        "firstName": "Sonya",
+        "lastName": "Stoltenberg",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/980.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f5ba3eed-0219-43ac-801f-8fbde7105ddc",
+        "email": "Lina_Dietrich@roq.tech",
+        "firstName": "Vivianne",
+        "lastName": "Zulauf",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/527.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "fb9e4a7b-e73f-4481-afc5-dc33617d8b42",
+        "email": "Yvonne_Fritsch27@roq.tech",
+        "firstName": "Rogelio",
+        "lastName": "Considine",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45669859",
+        "tenantId": null
+      },
+      {
+        "reference": "409be070-9ab6-4973-b5e3-a84321d87185",
+        "email": "Hilario.Boyle75@roq.tech",
+        "firstName": "Alivia",
+        "lastName": "Hammes-Oberbrunner",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2655317",
+        "tenantId": null
+      }
+    ]
+  }
+]
